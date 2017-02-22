@@ -6,7 +6,9 @@ int main ()
 
 {
 
-cout << "Hello World" << endl;
+cout << "Ingrese cuantos perros tiene" << endl;
+cin << Perros;
 
+return 0 ;
 
 }
